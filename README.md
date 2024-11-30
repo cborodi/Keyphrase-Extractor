@@ -1,5 +1,7 @@
 # Keyphrase-Extractor
 
+*Application for Keyphrase Extraction in Romanian Language*
+
 The main objective of the application is to evaluate two keyphrase extraction methods (TextRank and RAKE) on a target dataset. Apart from that, the application provides a graphical user interface for quick testing.
 
 The dataset used is created specifically for this application. It was collected from both online news articles and academic papers.
