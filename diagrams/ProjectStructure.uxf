@@ -1,0 +1,17 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLPackage</id><coordinates><x>100</x><y>240</y><w>120</w><h>80</h></coordinates><panel_attributes>Utils
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>240</x><y>140</y><w>120</w><h>80</h></coordinates><panel_attributes>RAKE
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>100</x><y>140</y><w>120</w><h>80</h></coordinates><panel_attributes>TextRank
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>240</x><y>240</y><w>120</w><h>80</h></coordinates><panel_attributes>Stopwords
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>380</x><y>140</y><w>120</w><h>80</h></coordinates><panel_attributes>TextProcessing
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>380</x><y>240</y><w>120</w><h>80</h></coordinates><panel_attributes>GUI
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>520</x><y>140</y><w>120</w><h>80</h></coordinates><panel_attributes>Evaluation
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLPackage</id><coordinates><x>520</x><y>240</y><w>120</w><h>80</h></coordinates><panel_attributes>MainApp
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element></diagram>
